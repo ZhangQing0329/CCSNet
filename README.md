@@ -3,6 +3,9 @@
 This repository includes the trained model, code and results for our paper:   
 Detecting camouflaged objects via cross-level context supplement. Applied Intelligence, 2024.   
 
+## Trained Model  
+You can download the trained model （Res2Net-based） at [BaiduYun(xgs8)](https://pan.baidu.com/s/1Kp4xXQ_t20dfHbdraS2W7w?pwd=xgs8)   
+
 ## Results   
 Our prediction maps (ResNet-based, Res2Net-based and Multi-scale ResNet-based) can be downloaded from BaiduYun: https://pan.baidu.com/s/1aYIu7aEHo_LpQ2K0RS1uBA?pwd=rin3 (code：rin3)  
 
